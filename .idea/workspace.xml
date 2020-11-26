@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d940bd-5f62-4365-9d69-3ae460cebbed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8d940bd-5f62-4365-9d69-3ae460cebbed" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -260,12 +257,12 @@
       <workItem from="1576206305185" duration="4859000" />
       <workItem from="1576411235462" duration="96000" />
       <workItem from="1606368822371" duration="225000" />
-      <workItem from="1606369054257" duration="2632000" />
+      <workItem from="1606369054257" duration="2878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13246000" />
+    <option name="totallyTimeSpent" value="13492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,7 +275,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
@@ -290,7 +286,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4300885" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32984293" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4712042" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4712042" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2821342" />
