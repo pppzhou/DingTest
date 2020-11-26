@@ -12,4 +12,8 @@ public class Person {
     private String email;
     private String phone;
     private String sex;
+
+    private Person(String name){
+        this.name = name;
+    }
 }
