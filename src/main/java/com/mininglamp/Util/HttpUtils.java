@@ -20,6 +20,10 @@ import java.util.List;
  */
 public class HttpUtils {
 
+    public static void main(String[] args) {
+
+    }
+
     //post请求
     public static String doPost(String url, JSONObject jsonObject, String charset){
 
