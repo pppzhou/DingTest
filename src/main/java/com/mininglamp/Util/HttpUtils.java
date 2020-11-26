@@ -23,6 +23,7 @@ public class HttpUtils {
 
     public static void main(String[] args) {
         System.out.println("DingTest");
+        System.out.println("ding-test");
     }
 
     //post请求
