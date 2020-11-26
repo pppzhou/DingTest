@@ -12,4 +12,9 @@ public class Person {
     private String email;
     private String phone;
     private String sex;
+
+    private Person(String name, String email) {
+        this.name = name;
+        this.email = email;
+    }
 }
