@@ -13,7 +13,12 @@ public class Person {
     private String phone;
     private String sex;
 
-    private Person(String name){
+    private Person(String name) {
         this.name = name;
+    }
+
+    private Person(String name, String email) {
+        this.name = name;
+        this.email = email;
     }
 }
