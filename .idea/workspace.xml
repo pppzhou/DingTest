@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e8d940bd-5f62-4365-9d69-3ae460cebbed" name="Default" comment="" />
+=======
+    <list default="true" id="e8d940bd-5f62-4365-9d69-3ae460cebbed" name="Default" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java" afterDir="false" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
+    </list>
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +26,18 @@
       <file leaf-file-name="HttpUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="117">
               <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="27">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+=======
+            <state relative-caret-position="85">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#660#661#0" expanded="true" />
@@ -29,11 +50,25 @@
       <file leaf-file-name="DingDingClientTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/Entrance/DingDingClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="-68">
+              <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+=======
             <state relative-caret-position="-637">
               <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -56,7 +91,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mininglamp/Util/Entrance/DingDingClientTest.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/.gitignore" />
+=======
         <option value="$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
       </list>
     </option>
   </component>
@@ -109,14 +148,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DingTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DingTest" type="462c0819:PsiDirectoryNode" />
+              <item name="ding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ding-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ding-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ding-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+              <item name="Entrance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DingTest" type="b2602c69:ProjectViewProjectNode" />
@@ -158,12 +230,18 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="D:/gitLocalRepo/ding-test" />
+=======
+    <property name="last_opened_file_path" value="D:/dingding/taobao-sdk-java-auto_1479188381469-20191205.jar!/" />
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -257,12 +335,29 @@
       <workItem from="1576206305185" duration="4859000" />
       <workItem from="1576411235462" duration="96000" />
       <workItem from="1606368822371" duration="225000" />
+<<<<<<< HEAD
       <workItem from="1606369054257" duration="2878000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1606369054257" duration="463000" />
+      <workItem from="1606372278844" duration="270000" />
+=======
+      <workItem from="1606369054257" duration="1664000" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="13492000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="11347000" />
+=======
+    <option name="totallyTimeSpent" value="12278000" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,10 +381,17 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4300885" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32984293" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4712042" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2821342" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35427573" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2586904" />
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,6 +420,26 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/Entrance/DingDingClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -435,6 +557,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+=======
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -446,6 +574,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-637">
           <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -454,13 +583,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mininglamp/Util/HttpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="117">
           <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="-68">
+          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+=======
+        <state relative-caret-position="85">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+>>>>>>> 4c2613ab3ba8724743f3138fac4d382e1e7d1e39
+>>>>>>> b7b7133cda8a55eae4468c7aa2292b514f43e8d1
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
             <element signature="e#696#697#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
