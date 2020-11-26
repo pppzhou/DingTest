@@ -9,4 +9,5 @@ package com.mininglamp.Util.Entrance;
  **/
 public class Person {
     private String name;
+    private String email;
 }
