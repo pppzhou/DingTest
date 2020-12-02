@@ -43,7 +43,11 @@ public class Person {
         return name;
     }
 
+
     public String getPhone() {
         return phone;
+    }
+    public String getSex() {
+        return sex;
     }
 }
