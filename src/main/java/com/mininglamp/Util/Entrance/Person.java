@@ -21,4 +21,11 @@ public class Person {
         this.name = name;
         this.email = email;
     }
+
+    public Person(String name, String email, String phone, String sex) {
+        this.name = name;
+        this.email = email;
+        this.phone = phone;
+        this.sex = sex;
+    }
 }
